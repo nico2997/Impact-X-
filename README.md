@@ -19,6 +19,7 @@
 
 ### Transportation Sector
 * [China Electric Vehicles(EVs) Market](https://github.com/nico2997/Impact-X-/tree/main/China%20Electric%20Vehicle%20Market)
+* [Green Logistic](https://github.com/nico2997/Impact-X-/tree/main/Green%20Logistic)
 
 ### Low-Carbon Technologies 
 * [Carbon Capture & Storage Technology (DAC, BECCS)](https://github.com/nico2997/Impact-X-/tree/main/Carbon%20Capture%20%26%20Storage%20Technology%20(DAC%2C%20BECCS))
