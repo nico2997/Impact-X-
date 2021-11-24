@@ -8,7 +8,7 @@
 * [China Wind Energy Market](https://github.com/nico2997/Impact-X-/tree/main/China%20Electric%20Vehicle%20Market)
 * [Hydrogen Energy](https://github.com/nico2997/Impact-X-/tree/main/Hydrogen%20Power)
 * [Nuclear Energy](https://github.com/nico2997/Impact-X-/tree/main/Nuclear%20Power)
-* [China Clean Energy Development](https://github.com/nico2997/Impact-X-/blob/main/China%20Clean%20Energy%20Development/China%20Clean%20Energy%20Development.pdf)
+* [China Clean Energy Development](https://github.com/nico2997/Impact-X-/tree/main/China%20Clean%20Energy%20Development)
 
 ### Manufacture Sector
 * [Plastic to Plastic](https://github.com/nico2997/Impact-X-/tree/main/Plastic%20to%20Plastic)
